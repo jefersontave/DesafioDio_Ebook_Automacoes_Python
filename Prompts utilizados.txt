@@ -1,0 +1,9 @@
+Crie um um ebook para um pdf, sobre o título:
+Automações sem limites
+Python: a linguagem do futuro
+
+[REGRAS]
+
+Crie tres capitulos.
+coloque um titulo para cada capitulo
+use palavras simples e de fáceis compreenção
